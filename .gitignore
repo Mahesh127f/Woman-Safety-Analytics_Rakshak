@@ -1,0 +1,9 @@
+# Never push these to GitHub
+.env
+venv/
+__pycache__/
+*.pyc
+.deepface/
+reports.json
+.DS_Store
+Thumbs.db

@@ -1,8 +1,9 @@
 flask
 flask-cors
+gunicorn
 deepface
-opencv-python
+opencv-python-headless
 numpy
 twilio
-tf-keras
 python-dotenv
+tf-keras
