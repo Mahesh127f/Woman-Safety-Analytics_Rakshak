@@ -1,9 +1,10 @@
 flask
 flask-cors
 gunicorn
-deepface
+deepface==0.0.79
 opencv-python-headless
-numpy
+numpy==1.26.4
 twilio
 python-dotenv
+tensorflow==2.13.0
 tf-keras
