@@ -6,4 +6,3 @@ opencv-python-headless
 numpy==1.26.4
 twilio
 python-dotenv
-tensorflow-cpu==2.13.0
